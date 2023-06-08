@@ -1,0 +1,2 @@
+# HongKongIdReservationCheck
+香港身份证预约自动查询
